@@ -1,0 +1,14 @@
+This is a Guessing game written in Assembly:
+
+Once the code starts: 
+1. The user is asked to input a player
+2. Then the menu will appear with 5 options
+3. The game is a simple game of guessing the correct number, it cost the player $1 to play the game.
+4. Each correct guess grants the player $2, each incorrect guess will result in the player winning nothing.
+3. You can click from the five options each having their own functions
+  Option 1: Display available credits
+  Option 2: Add credits 
+  Option 3: Play the game
+  Option 4: Display game statistics
+  Option 5: Exit the game
+4. Thanks for reading enjoy the game!
